@@ -13,9 +13,10 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Fun Facts With Will</p>
+     <h2>Fun Facts With Will</h2>
      <p>Mostly on Computer Vision, ML, and C++</p>
-  header_text_feature_image:
+     <p>With all the things in between</p>
+  header_text_feature_image: assets/img/home.jpg
   footer_text: >
    Will Brennan
 

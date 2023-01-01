@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/blog"
+baseurl: ""
 url: "https://willbrennan.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -14,7 +14,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <p>Fun Facts With Will</p>
-     <p>Mostly on Computer Vision, ML, and C++</p>
+     <p>Mostly on Computer Vision, ML, and C++. With all the things in between.</p>
   header_text_feature_image:
   footer_text: >
    Will Brennan

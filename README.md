@@ -29,9 +29,9 @@ bundle exec jekyll serve --watch --livereload
 ## research 
 * radial distortion models 
 * 3D reconstruction methods 
-* multi-view stereo 
-* active learning 
-* metric learning 
+* multi-view stereo
+* active learning
+* metric learning
 * template matching / image registration 
 * under-rated publications of 2022 
 * Do you still YOLO?
@@ -43,5 +43,4 @@ bundle exec jekyll serve --watch --livereload
 * Career paths 
 * Researcher vs Engineer 
 * building roadmaps 
-* project planning
 * project delivery

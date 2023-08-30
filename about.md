@@ -5,8 +5,12 @@ permalink: /about/
 feature-img: "assets/img/about.jpg"
 ---
 
-I started this blog to share small posts of things I've learnt across my career building products using computer-vision and machine-learning. There's a mix of posts of technical and soft subjects. From C++ and hough transforms through to project planning and people management. 
+Welcome to my knowledge repository.
 
-I hope you enjoy reading this as much as I enjoyed writing it. Let me know if you've got any questions or feedback; feel free to reach out!
+Throughout my career, I've had the privilege to navigate the intricate world of Applied AI/ML in Product Development. Leading teams to deliver groundbreaking products that push the boundaries of technical feasibility.  My goal with this blog is to share the lessons I've learnt - across Engineering, Research, and People Management. From the nuances of C++ and CUDA, through to the art of Project Management and Leadership. 
 
-I'm always around for a catch-up over coffee or going to a new meet-up! I'm also a huge fan of the outdoors, above is a photo I took in Snowdonia on a walking weekend. Its probably the best photo I've ever taken; it took 4 hours of hiking to get there.
+I hope my insights resonate with you and you have as much enjoyment reading this as I had writing it. I value constructive feedback and dialogue, so please don't hesitate to reach out with questions or comments.
+
+I cherish the moments when I can disconnect and immerse myself in nature. Pictured above is a snapshot from Snowdonia, captured during a memorable hiking weekend. It stands as a testament to the serendipity of nature especially after a 4-hour trek.
+
+Should you ever wish to discuss tech or trails over a cup of coffee or at an upcoming meet-up, know that my door is always open.

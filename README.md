@@ -5,7 +5,7 @@ This is a customised version of the [Type Theme repo](https://github.com/rohanch
 
 ```bash
 # install the dependencies 
-bundle install 
+bundle install
 # start serving the page locally
 bundle exec jekyll serve --watch --livereload
 ```
